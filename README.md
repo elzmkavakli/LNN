@@ -1,4 +1,3 @@
-
 I. INTRODUCTION
 
 Liquid Neural Networks (LNNs) are an emerging modeling technique in artificial intelligence and machine learning, gaining increasing importance. While current neural networks are typically built on fixed and static structures, LNNs offer dynamic connectivity patterns and adaptive learning capabilities . These features make LNNs particularly effective for tasks involving complex and variable data structures, such as time series forecasting.
